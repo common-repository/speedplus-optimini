@@ -1,0 +1,581 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: yyyy-mm-dd hh:mm+0000\n"
+"PO-Revision-Date: 2022-04-10 12:48+0300\n"
+"Last-Translator: Speedplus.com.ua <1@speedplus.com.ua>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+
+#: speedplus-optimini.php:32
+msgid "Settings"
+msgstr "Настройки"
+
+#: speedplus-optimini.php:33
+msgid "Need help with a slow site?"
+msgstr "Нужна помощь с медленным сайтом?"
+
+#: includes/options.php:30
+msgid "Disable Scripts and Styles"
+msgstr "Отключить стили и скрипты"
+
+#: includes/options.php:36
+msgid "Cleanup Code"
+msgstr "Очистка кода"
+
+#: includes/options.php:42
+msgid "Security"
+msgstr "Безопасность"
+
+#: includes/options.php:48
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: includes/options.php:54
+msgid "SEO and other"
+msgstr "СЕО и другое"
+
+#: includes/options.php:60
+msgid "Stand with Ukraine"
+msgstr "Поддержите Украину"
+
+#: includes/options.php:68
+msgid "Emojis"
+msgstr "Смайлики"
+
+#: includes/options.php:74
+msgid "Dashicons"
+msgstr "Dashicons"
+
+#: includes/options.php:81
+msgid "RSS"
+msgstr "RSS"
+
+#: includes/options.php:87
+msgid "WP version"
+msgstr "Версия WP"
+
+#: includes/options.php:93
+msgid "Shortlink"
+msgstr "Короткая ссылка"
+
+#: includes/options.php:99
+msgid "Windows Live Writer"
+msgstr "Windows Live Writer"
+
+#: includes/options.php:105
+msgid "XML-RPC RSD"
+msgstr "XML-RPC RSD"
+
+#: includes/options.php:111
+msgid "REST API"
+msgstr "REST API"
+
+#: includes/options.php:117
+msgid "Embeds"
+msgstr "Embeds"
+
+#: includes/options.php:123
+msgid "HTML"
+msgstr "HTML"
+
+#: includes/options.php:129
+msgid "Post's links"
+msgstr "Ссылки на записи"
+
+#: includes/options.php:136
+msgid "Login Hints"
+msgstr "Подсказки при авторизации"
+
+#: includes/options.php:142
+msgid "Admin bar"
+msgstr "Панель администратора"
+
+#: includes/options.php:148
+msgid "Robots.txt"
+msgstr "Robots.txt"
+
+#: includes/options.php:154
+msgid "Passwords"
+msgstr "Пароли"
+
+#: includes/options.php:161
+msgid "Action Sheduler"
+msgstr "Запланированные действия"
+
+#: includes/options.php:167
+msgid "Cart Fragments"
+msgstr "Cart Fragments"
+
+#: includes/options.php:173
+msgid "Marketing garbage"
+msgstr "Маркетинг-хлам"
+
+#: includes/options.php:179
+msgid "Gray out of stock"
+msgstr "Серые \"нет в наличии\""
+
+#: includes/options.php:185
+msgid "Do not show out of stock"
+msgstr "Не показывать отсутствующие товары"
+
+#: includes/options.php:191
+msgid "Facebook feed"
+msgstr "Фид Facebook"
+
+#: includes/options.php:198
+msgid "Cyclic Links"
+msgstr "Циклические ссылки"
+
+#: includes/options.php:204
+msgid "HTML in comments"
+msgstr "HTML в комментариях"
+
+#: includes/options.php:210
+msgid "No comments"
+msgstr "Без комментариев"
+
+#: includes/options.php:216
+msgid "Passive jQuery"
+msgstr "Пассивный jQuery"
+
+#: includes/options.php:222
+msgid "Updates"
+msgstr "Обновления"
+
+#: includes/options.php:230
+msgid "Support Ukraine"
+msgstr "Поддержать Украину"
+
+#: includes/options.php:239
+msgid "Here you can unload unnecessary JS and CSS files."
+msgstr "Здесь вы можете отключить загрузку ненужных JS и CSS файлов."
+
+#: includes/options.php:242
+msgid "Remove unnecessary strings from output HTML code and minify it."
+msgstr "Удалить ненужные строки из HTML-кода страниц и сжать код."
+
+#: includes/options.php:245
+msgid "Options for improve security of your site."
+msgstr "Настройки для повышения безопасности вашего сайта."
+
+#: includes/options.php:249
+msgid "Helpfull options for Woocommerce store."
+msgstr "Полезные настройки для магазина на Woocommerce."
+
+#: includes/options.php:251
+msgid " Woocommerce plugin not activated."
+msgstr " Плагин Woocommerce не активирован."
+
+#: includes/options.php:255
+msgid "Other optimization options."
+msgstr "Остальные настройки оптимизации."
+
+#: includes/options.php:259
+msgid ""
+"On February 24, 2022, Russian troops invaded Ukraine. The Russians rape and "
+"kill civilians: small children, .women and the elderly. You can make an "
+"important contribution to the defense of Ukraine from Russian monsters."
+msgstr ""
+"24 февраля 2022 года российские войска вторглись на территорию Украины. "
+"Русские насилуют и убивают мирных жителей: маленьких детей, женщин и "
+"стариков. Вы можете внести важный вклад в защиту Украины от русских монстров."
+
+#: includes/options.php:267
+msgid "Unload all Emojis including TinyMCE."
+msgstr "Отключить все смайлики (emojis), включая TinyMCE."
+
+#: includes/options.php:267
+msgid "Disable inline emoji scripts and styles from WordPress in the header."
+msgstr ""
+"Отключить встроенные стили и скрипты смайликов от Вордпресс в хедере сайта."
+
+#: includes/options.php:274
+msgid "Disable dashicons in frontend to non-admin."
+msgstr "Загружать dashicons во внешнем интерфейсе только для администраторов."
+
+#: includes/options.php:274
+msgid ""
+"Dashicons is the official icon font of WordPress dashboard. If you does not "
+"use these icons in the frontend, you can safely disable it and save about "
+"60KB."
+msgstr ""
+"Dashicons - это официальный шрифт значков панели инструментов WordPress. "
+"Если вы не используете эти значки во внешнем интерфейсе, вы можете безопасно "
+"отключить их и сэкономить около 60 КБ."
+
+#: includes/options.php:274
+msgid "Be carefull, it can break Toolbar for non-admin users."
+msgstr ""
+"Будьте осторожны, это может сломать верхнюю панель для пользователей-"
+"неадминов."
+
+#: includes/options.php:281
+msgid "Disable Feed RSS."
+msgstr "Отключить RSS ленту."
+
+#: includes/options.php:281
+msgid ""
+"Removes 2+ links to RSS feeds in the site header, as well as the RSS feeds "
+"themselves. The corresponding RSS feed pages are giving a 404 error."
+msgstr ""
+"Удаляет 2+ ссылки на RSS-каналы в хедере сайта, а также сами RSS-каналы. "
+"Соответствующие страницы RSS-каналов отдают ошибку 404."
+
+#: includes/options.php:288
+msgid "Remove the WordPress version."
+msgstr "Не отображать версию WordPress."
+
+#: includes/options.php:288
+msgid ""
+"Remove the unnecessary line in the site header, which information can be "
+"used by hackers:"
+msgstr ""
+"Уберите лишнюю строчку в хедере сайта, информацию из которой могут "
+"использовать хакеры:"
+
+#: includes/options.php:295
+msgid "Remove shortlink."
+msgstr "Удалить короткую ссылку."
+
+#: includes/options.php:295
+msgid ""
+"Good for SEO if your site uses user-friendly URLs. Remove the unnecessary "
+"line in the site header:"
+msgstr ""
+"Положительно влияет на СЕО, если на сайте используются ЧПУ адреса страниц. "
+"Удаляет ненужную строку в хедере:"
+
+#: includes/options.php:302
+msgid "Disable Windows Live Writer support."
+msgstr "Отключить поддержку Windows Live Writer."
+
+#: includes/options.php:302
+msgid ""
+"If you don't use Windows Live Writer and even don't know what is it, you can "
+"safely remove from site header this line:"
+msgstr ""
+"Если вы не используете Windows Live Writer и даже не знаете, что это такое, "
+"можете смело удалить из хедера сайта эту строку:"
+
+#: includes/options.php:309
+msgid "Remove XML-RPC RSD link from Header."
+msgstr "Удалить ссылку XML-RPC RSD."
+
+#: includes/options.php:309
+msgid ""
+"If you add new content through WordPress and don't use any remote connection "
+"applications, you can remove from site header this line:"
+msgstr ""
+"Если вы добавляете новый контент через WordPress и не используете какие-либо "
+"приложения для удаленного подключения, вы можете удалить из хедера сайта эту "
+"строку:"
+
+#: includes/options.php:316
+msgid "Remove api.w.org relation link."
+msgstr "Удалить ссылку на api.w.org."
+
+#: includes/options.php:316
+msgid ""
+"If you don't use REST API on site, you can remove from site header this "
+"lines:"
+msgstr ""
+"Если вы не используете REST API на сайте, вы можете удалить из хедера сайта "
+"следующие строки:"
+
+#: includes/options.php:316
+msgid "Be carefull, it can break work of any used API-services."
+msgstr ""
+"Будьте осторожны, это может нарушить работу любого используемого API-сервиса."
+
+#: includes/options.php:323
+msgid "Totally remove Embeds."
+msgstr "Полностью удалить Embeds."
+
+#: includes/options.php:323
+msgid ""
+"If you don't want allow others to embed your WordPress posts into their own "
+"site by adding the post URL, you can remove from site header this lines:"
+msgstr ""
+"Если вы не хотите, чтобы кто-либо мог встраивать на свой сайт материалы с "
+"вашего сайта, лишь указав URL-адрес материала, вы можете удалить из хедера "
+"сайта следующие строки:"
+
+#: includes/options.php:330
+msgid "Agressive HTML minify."
+msgstr "Агрессивное сжатие HTML-кода."
+
+#: includes/options.php:330
+msgid ""
+"Forced cleaning of HTML code from extra spaces, empty lines and unnecessary "
+"characters."
+msgstr ""
+"Принудительная очистка HTML-кода от лишних пробелов, пустых строк и ненужных "
+"символов."
+
+#: includes/options.php:330
+msgid "Caution! It can break your site."
+msgstr "Осторожно! Это может нарушить работу сайта."
+
+#: includes/options.php:337
+msgid ""
+"Remove links to posts in the header: to the index page, random/parent/next/"
+"previous posts."
+msgstr "Удалить ссылки на записи в хедере: index/random/parent/next/previous."
+
+#: includes/options.php:337
+msgid "This option will remove such lines in the header:"
+msgstr "Эта опция удалит похожие строки в хедере:"
+
+#: includes/options.php:344
+msgid "Disable login hints."
+msgstr "Отключить подсказки при авторизации."
+
+#: includes/options.php:344
+msgid ""
+"WordPress allows hackers to guess your username or email address to log into "
+"a site, while displaying an error message about an incorrect password. You "
+"can hide the login hints and display a new error message: \"Invalid "
+"username, email, or password.\""
+msgstr ""
+"WordPress позволяет хакерам подбирать ваше имя пользователя или адрес "
+"электронной почты для входа на сайт, отображая сообщение о неверном пароле. "
+"Вы можете скрыть подсказки при авторизации и отображать новое сообщение об "
+"ошибке: «Неверное имя пользователя, адрес электронной почты или пароль»."
+
+#: includes/options.php:351
+msgid "Disable loading Admin bar in Frontend."
+msgstr "Не загружать панель администратора во внешнем интерфейсе."
+
+#: includes/options.php:358
+msgid "Create the correct robots.txt file."
+msgstr "Создать правильный файл robots.txt."
+
+#: includes/options.php:358
+msgid ""
+"Automatically create the correct robots.txt file with rules for all "
+"visitors, for GoogleBot and YandexBot. Only works if the robots.txt file has "
+"not been manually created before - in this case, just rename old file."
+msgstr ""
+"Автоматически создавать правильный файл robots.txt с правилами для всех "
+"посетителей, для GoogleBot и YandexBot. Работает только в том случае, если "
+"файл robots.txt ранее не создавался вручную - в этом случае просто "
+"переименуйте старый файл."
+
+#: includes/options.php:365
+msgid "Disable app passwords."
+msgstr "Отключить пароли приложений."
+
+#: includes/options.php:365
+msgid ""
+"Safely disable app passwords in WordPress. It's not about user and admin "
+"passwords."
+msgstr ""
+"Безопасно отключите пароли приложений в WordPress. Эта опция не связана с "
+"паролями пользователей и админа."
+
+#: includes/options.php:374
+msgid ""
+"Reduce the storage time of entries in the WooCommerce Action Sheduler's log."
+msgstr ""
+"Уменьшите время хранения записей в журнале WooCommerce Action Sheduler."
+
+#: includes/options.php:374
+msgid "Good for Database size. New value: 1 week (default: 4 weeks)."
+msgstr ""
+"Уменьшает размер базы данных. Новое значение: 1 неделя (по умолчанию: 4 "
+"недели)."
+
+#: includes/options.php:381
+msgid "Disable Ajax call from WooCommerce on FrontPage."
+msgstr "Отключить Ajax-запрос WooCommerce на главной странице сайта."
+
+#: includes/options.php:381
+msgid ""
+"On some sites, WooCommerce Cart Fragments can seriously slow down site "
+"speed. You can turn off this feature on the home page."
+msgstr ""
+"На некоторых сайтах WooCommerce Cart Fragments могут серьезно замедлить "
+"скорость работы сайта. Вы можете отключить эту функцию на главной странице "
+"сайта."
+
+#: includes/options.php:381
+msgid ""
+"Caution! If enabled, the shopping cart will not be updated on the home page."
+msgstr ""
+"Осторожно! Если включено, корзина не будет обновляться на главной странице "
+"сайта."
+
+#: includes/options.php:388
+msgid "Disable WooCommerce marketing garbage."
+msgstr "Отключить маркетинговый хлам WooCommerce."
+
+#: includes/options.php:388
+msgid ""
+"Breathe freely by disabling unnecessary and adware features: marketing hub "
+"menu, WC admin, marketplace suggestions, WC dashboard boxes, WC widgets, "
+"notice \"Connect your store to WC\", Action Scheduler migration, automatic "
+"regeneration of thumbnail images."
+msgstr ""
+"Вздохните свободно, отключив ненужные и рекламные функции: меню \"Маркетинг"
+"\", WC админ, предложения маркетплейса, блоки WC в панели, виджеты WC, "
+"уведомление \"Подключите ваш магазин к WC\", миграцию запланированных "
+"действий, автоматическую регенерацию миниатюр."
+
+#: includes/options.php:395
+msgid "Gray color for \"out of stock\" product variations."
+msgstr "Закрасить серым вариации товаров, которых нет в наличии."
+
+#: includes/options.php:395
+msgid ""
+"Customers don't like it when they select a product variation and see \"Out "
+"of stock”. You can lock the selection of “out of stock” variations and make "
+"them grayed out."
+msgstr ""
+"Покупателям не нравится, когда они выбирают вариацию товара и видят надпись "
+"«Нет в наличии». Вы можете заблокировать выбор вариаций, которых нет в "
+"наличии, и закрасить их серым цветом."
+
+#: includes/options.php:402
+msgid ""
+"Hide out of stock Woocommerce products in Shop, Categories, Tags and Related "
+"Products."
+msgstr ""
+"Скрыть отсутствующие товары на страницах магазина, категорий, тегов и в "
+"блоке \"Похожие товары\"."
+
+#: includes/options.php:402
+msgid ""
+"WooCommerce allows you to completely hide out of stock products , but this "
+"is bad for the SEO. This option hides products only on the store page, in "
+"categories, on tag pages, and in the \"Related Products\" block. In this "
+"case, the pages of the out of stock products will remain available."
+msgstr ""
+"WooCommerce позволяет полностью скрыть товары, которых нет в наличии, но это "
+"плохо для СЕО. Эта опция скрывает товары только на странице магазина, в "
+"категориях, на страницах тегов и в блоке «Похожие товары». В этом случае "
+"страницы товаров, которых нет в наличии, останутся доступными."
+
+#: includes/options.php:424
+msgid "Increase the Facebook feed creation interval."
+msgstr "Увеличить интервал создания фида Facebook."
+
+#: includes/options.php:424
+msgid ""
+"Previous versions of the Facebook for WooCommerce plugin generates a product "
+"feed every 15 minutes. This significantly loads the server and can generate "
+"errors. You can change the feed creation interval to 1 day."
+msgstr ""
+"Предыдущие версии плагина Facebook for WooCommerce генерируют товарный фид "
+"каждые 15 минут. Это ощутимо нагружает сервер и может вызвать ошибки. Вы "
+"можете изменить интервал создания фида на 1 день."
+
+#: includes/options.php:426
+msgid "This issue has already been fixed in the current version of the plugin."
+msgstr "Эта проблема уже решена в текущей версии плагина."
+
+#: includes/options.php:429
+msgid "The Facebook for WooCommerce plugin is not installed."
+msgstr "Плагин Facebook for WooCommerce не установлен."
+
+#: includes/options.php:440
+msgid "Remove links to current page from Menu and Categories."
+msgstr "Удалить ссылки на текущую страницу из Меню и Категорий."
+
+#: includes/options.php:440
+msgid "Good for SEO."
+msgstr "Положительно влияет на СЕО."
+
+#: includes/options.php:447
+msgid "Disable HTML in comments."
+msgstr "Запретить в комментариях код HTML."
+
+#: includes/options.php:447
+msgid "Good for SEO and reduce spam."
+msgstr "Положительно влияет на СЕО и уменьшает спам."
+
+#: includes/options.php:454
+msgid "Completely disable comments. All comments. Everywhere."
+msgstr "Отключить комментарии на сайте. Все комментарии. Везде."
+
+#: includes/options.php:454
+msgid ""
+"If you do not want to use comments on the site, then this is the best way to "
+"disable them completely."
+msgstr ""
+"Если вы не хотите использовать комментарии на сайте, то это лучший способ "
+"полностью их отключить."
+
+#: includes/options.php:461
+msgid "Make jQuery passive."
+msgstr "Сделать jQuery пассивным."
+
+#: includes/options.php:461
+msgid ""
+"If PageSpeed tell you that jQuery \"Does not use passive listeners to "
+"improve scrolling performance\", enable this option. Note: does not work on "
+"some sites."
+msgstr ""
+"Если PageSpeed сообщает вам, что «Пассивные прослушиватели событий не "
+"используются для улучшения производительности при прокрутке» для jQuery, "
+"включите эту опцию. Примечание: не работает на некоторых сайтах."
+
+#: includes/options.php:468
+msgid "Disable automatic plugins and themes updates."
+msgstr "Отключить автоматическое обновление плагинов и тем."
+
+#: includes/options.php:468
+msgid "Now you will only update them when you are ready."
+msgstr "Теперь вы сможете обновлять их только тогда, когда будете готовы."
+
+#: includes/options.php:475
+msgid "Add top banner Stop the war in Ukraine."
+msgstr "Добавить вверху сайта баннер Остановите войну в Украине."
+
+#: includes/options.php:475
+msgid ""
+"The banner will appear in the top left corner of your site. The link from "
+"the banner leads to the official fundraising page for the needs of the "
+"Ukrainian army."
+msgstr ""
+"Баннер появится в левом верхнем углу вашего сайта. Ссылка с баннера ведет на "
+"официальную страницу сбора средств на нужды украинской армии."
+
+#: includes/options.php:493
+msgid "Did you like this plugin? You can "
+msgstr "Понравился плагин? Вы можете "
+
+#: includes/options.php:493
+msgid "buy me a coffee."
+msgstr "купить мне кофе."
+
+#: includes/options.php:494
+msgid "Also try our plugins"
+msgstr "Также попробуйте наши плагины"
+
+#: includes/options.php:494
+msgid "(removes obscene words in comments) and"
+msgstr "(удаляет маты в комментариях) и"
+
+#: includes/options.php:494
+msgid ""
+"(checks the customer's phone number on the WooCommerce Checkout page against "
+"your rules)."
+msgstr ""
+"(проверяет номер телефона покупателя при оформлении заказа в WooCommerce "
+"согласно вашим правилам)."
+
+#: includes/options.php:504
+msgid "Settings saved. Nice work!"
+msgstr "Настройки сохранены. Отличная работа!"

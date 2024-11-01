@@ -1,0 +1,55 @@
+== Changelog ==
+
+All notable changes to SpeedPlus OptiMini will be documented in this file.
+
+= [1.4.4] - 2022-09-24 =
+* Tested up to 6.0.2
+
+= [1.4.3] - 2022-04-10 =
+* FIX: Translation fix.
+
+= [1.4.2] - 2022-04-10 =
+* CHANGE: Stop war in Ukraine banner can be turned on/off
+* CHANGE: "Buy me a coffee" link
+* CHANGE: Advertising our other plugins
+
+= [1.4.0] - 2022-03-03 =
+* Tested up to 5.9
+* FIX: Remove Yoast SEO Prev/Next URL from all pages.
+* ADD: No war banner
+
+= [1.4.0] - 2022-03-03 =
+* Tested up to 5.9
+* FIX: Remove Yoast SEO Prev/Next URL from all pages.
+* ADD: No war banner
+
+= [1.3.1] - 2021-09-11 =
+* Tested up to 5.8.1
+* FIX: Fully disable WooCommerce activity panel.
+
+= [1.3.0] - 2021-06-06 =
+* NEW: Disable WooCommerce marketing garbage.
+* NEW: Hide out of stock Woocommerce products in Shop, Categories, Tags and Related Products.
+* NEW: Disable automatic plugins and themes updates.
+* NEW: Remove links to previous and next posts in header.
+* NEW: Disable application passwords.
+
+= [1.2.4] - 2021-05-30 =
+* CHANGE: Facebook feed genegation interval set to 1 day.
+* CHANGE: The minimum supported version of Wordpress has been reduced to 4.9.
+
+= [1.2.3] - 2021-05-13 =
+* FIX: PHP Notice - add_submenu_page was called incorrectly.
+
+= [1.2.2] - 2021-05-05 =
+* FIX: HTML Minify - Conflict with Query Monitor plugin.
+* REMOVE: Move WooCommerce tags to the bottom of the product page.
+
+= [1.2.1] - 2021-04-11 =
+* FIX: robots.txt - Yandex reports issue with line "host".
+* FIX: readme.txt - shortening the text.
+
+= [1.2.0] - 2021-04-10 =
+* NEW: Link to OptiMini settings on Plugins list page.
+* NEW: Descriptions of all options.
+* NEW: Creation of robots.txt file.
